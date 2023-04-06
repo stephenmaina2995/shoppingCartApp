@@ -1,3 +1,9 @@
+## Description
+The smart supermarket website enables the admin to create products on the database.
+The admin is also able to read the products in the database. Third the admin is able to 
+delete the products from the database.
+
+# License
 MIT License
 
 Copyright (c) 2023 stephenmaina2995
