@@ -191,6 +191,7 @@ document.addEventListener("DOMContentLoaded", () => {
       //   cart.splice(a, 1);
       //   displayCart();
       // }
+      // Working with grid template in css
 
       // function displayCart(a) {
       //   let j = 0,
