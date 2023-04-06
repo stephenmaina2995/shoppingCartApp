@@ -167,6 +167,7 @@ document.addEventListener("DOMContentLoaded", () => {
       //   cart.push({ ...categories[a] });
       //   displayCart();
       // }
+      // Added a side bar
       // fetch('/cart', {
       //   method: 'POST',
       //   headers: {
