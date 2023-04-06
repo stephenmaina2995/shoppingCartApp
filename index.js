@@ -92,22 +92,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
     
 
-      //     //deleting function
-      //     fetch(`http://localhost:3000/products/${element.id}`, {
-      //       method: 'DELETE',
-      //       headers:{
-      //         "Content-Type":"application/json"
-      //       }
-      //     })
-      //     .then(res => res.json())
-      //     .then(data => {
-      //       //console.log(data);
-      //     })
-      //     .catch(error => console.error(error));
-
-      //   })
-      // })
-      //})
+      
 
       // document.addEventListener("DOMContentLoaded", fetchData)
 
