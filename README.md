@@ -1,9 +1,18 @@
 ## Description
-The smart supermarket website enables the admin to create products on the database.
-The admin is also able to read the products in the database. Third the admin is able to 
+
+The city supermarket website enables the admin to create products on the database.
+The admin is also able to read the products in the database. Third the admin is able to
 delete the products from the database.
+The city supermarket aims to show the customers different products with their prices,
+quantity and their products names.
+
+## Installation
+
+The city supermarket website can be installed by git clone the repository.
+Then run the server by running the following command: json-server --watch db.json.
 
 # License
+
 MIT License
 
 Copyright (c) 2023 stephenmaina2995
